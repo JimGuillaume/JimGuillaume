@@ -6,7 +6,7 @@ I'm trying to become an Embedded Software Engineer (or at least I'm working on i
 
 ## WIP
 ### School Projects
-🖼️ - Art Exhibit - C# and Blazor - Making a theorical Art Selling platform using WEB Apie .NET and EF
+🖼️ - Art Exhibit - C# and Blazor - Making a theorical Art Selling platform using WEB Api .NET and EF
 
 🚗 - Car Dealership Management - C++ - Dynamic Management of a car dealership using Abstract Class, Memory management, Console Interface
 ### Personnal Projects
