@@ -9,7 +9,10 @@ I'm trying to become an Embedded Software Engineer (or at least I'm working on i
 🖼️ - Art Exhibit - C# and Blazor - Making a theorical Art Selling platform using WEB Api .NET and EF
 
 🚗 - Car Dealership Management - C++ - Dynamic Management of a car dealership using Abstract Class, Memory management, Console Interface
+
+🎫 - Ticketing System - PHP and Twig - Made a ticketing system for an entreprise using Twig for templates & Php for back/front technology
 ### Personnal Projects
 📡 - Telemetry System - ESP32, C++, Sensors - Using a Micro-Controller & sensors to harvest telemetry data over WiFi (°, Pressure, Gyro)
 
 𖥂 - Drone - TBD - Using Telemetry Data to make an Homemade drone (Final thesis)
+ 
