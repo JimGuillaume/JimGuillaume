@@ -13,6 +13,8 @@ I'm trying to become an Embedded Software Engineer (or at least I'm working on i
 🎫 - Ticketing System - PHP and Twig - Made a ticketing system for an entreprise using Twig for templates & Php for back/front technology
 
 👷 - AECB - PHP and Vue - Simple ERP using ChartJS, Handsontable, TailwindCSS and Icofont
+
+📔 - BEL.Edition - .NET and Vue - Website allowing authors to write differents books using a in house tool
 ### Personnal Projects
 📡 - Telemetry System - ESP32, C++, Sensors - Using a Micro-Controller & sensors to harvest telemetry data over WiFi (°, Pressure, Gyro)
 
